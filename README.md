@@ -1,4 +1,5 @@
 # IntroToALgorithms
+Pg. xiii
 # 📘 Solutions to *Introduction to Algorithms* (Cormen)
 
 This repository contains solutions to selected exercises from the book **"Introduction to Algorithms"** by Thomas H. Cormen et al.  
@@ -16,7 +17,7 @@ The folder hierarchy is organized by **programming language → author → chapt
 - `chXX/` → refers to **Chapter XX** from the book.  
 - Inside each chapter, solutions are named according to the exercise number, for example:
   - `ex01.go` → Exercise 1 of the chapter, written in Go.  
-  - `ex02.rs` → Exercise 2 of the chapter, written in Rust.  
+  - `ex02.rs` → Exercise 2 of the chapter, written in Rust.  (maybe cargo new chXX --vcs=none [ I don't know if I could do this or the best way to organice the code  ] )
 
 ---
 
