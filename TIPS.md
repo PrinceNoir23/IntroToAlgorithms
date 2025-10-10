@@ -6,9 +6,10 @@ Guía rápida
 - Escribe tips cortos por capítulo y, si puedes, referencia la página.
 - Usa viñetas; mantén el lenguaje claro y directo.
 - Incluye ejemplos en `Go` o `Rust` cuando aporten claridad.
-
+- (Star) section are for graduate
+- "Parts I and VIII of this book teach you all the mathematical techniques you will need"
 ## Links
-Solutions:
+Solutions pg. xiii:
 "Our Web site, http://mitpress.mit.edu/algorithms/, links to these solutions."
 
 ## Capítulo 01

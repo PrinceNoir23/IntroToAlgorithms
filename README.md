@@ -1,5 +1,5 @@
 # IntroToALgorithms
-Pg. xiii
+Pg. xvii
 # 📘 Solutions to *Introduction to Algorithms* (Cormen)
 
 This repository contains solutions to selected exercises from the book **"Introduction to Algorithms"** by Thomas H. Cormen et al.  
