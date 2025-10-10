@@ -51,8 +51,11 @@ Each contributor works on their own branch and can later open Pull Requests into
 - Exercises are solved independently; solutions may vary between authors.  
 - Comparing Go vs Rust implementations is encouraged.  
 
+## 📝 Tips del libro
+Consulta los apuntes y buenas prácticas: [TIPS del libro](./TIPS.md).
+
 ---
 
 👥 **Authors**:  
 - Joel  
-- Wilson  
+- Wilson
