@@ -1,5 +1,5 @@
 # IntroToALgorithms 3rd ed
-Pg. 640
+Pg. 11
 THOMAS H. CORMEN  
 CHARLES E. LEISERSON 
 RONALD L. RIVEST 
