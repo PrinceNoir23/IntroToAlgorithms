@@ -1,5 +1,10 @@
-# IntroToALgorithms
-Pg. xvii
+# IntroToALgorithms 3rd ed
+Pg. 640
+THOMAS H. CORMEN  
+CHARLES E. LEISERSON 
+RONALD L. RIVEST 
+CLIFFORD STEIN 
+*February 2009*
 # 📘 Solutions to *Introduction to Algorithms* (Cormen)
 
 This repository contains solutions to selected exercises from the book **"Introduction to Algorithms"** by Thomas H. Cormen et al.  
@@ -15,9 +20,14 @@ The folder hierarchy is organized by **programming language → author → chapt
 
 ### 🗂 Folder naming
 - `chXX/` → refers to **Chapter XX** from the book.  
-- Inside each chapter, solutions are named according to the exercise number, for example:
-  - `ex01.go` → Exercise 1 of the chapter, written in Go.  
-  - `ex02.rs` → Exercise 2 of the chapter, written in Rust.  (maybe cargo new chXX --vcs=none [ I don't know if I could do this or the best way to organice the code  ] )
+- Inside each chapter, solutions are named according to the section_exercise number, for example:
+  - `ex1_1.go` → Section 1 Exercise 1 of the chapter, written in Go.  
+  - `ex1_2.rs` → Section 1 Exercise 2 of the chapter, written in Rust.  
+  (maybe cargo new chXX --vcs=none [ I don't know if I could do this or the best way to organice the code  ] )
+
+These chapter exercise are "concatenated" in the sense that each exercise is a separate file, and the files are named according to the chapter-section_exercise number e.g. inside folder `ch02/` we have `ex1_3.go` and `ex1_3.rs`, which correspond to chapter 2, section 1, exercise 3. The same will apply to problems as pbXX. the algorithms are not going to have the section number in the name but will be inside its chapter folder, on reference to the contents of the book.
+
+Each person will have one main file so the modules/crates are imported to that file to test the solutions.
 
 ---
 
