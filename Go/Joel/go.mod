@@ -1,3 +1,3 @@
-module github.com/PrinceNoir23/IntroToAlgorithms/Go/Joel
+module github.com/PrinceNoir23/IntroToAlgorithms
 
 go 1.25.1
