@@ -27,3 +27,7 @@ Solutions pg. xiii:
 ## Pendientes / Ideas
 - Comparar enfoques entre `Go` y `Rust` cuando el algoritmo lo permita.
 - Apuntar invariantes, complejidad y casos límite de cada algoritmo.
+
+## Other links
+https://atekihcan.github.io/CLRS/
+https://ita.skanev.com/
