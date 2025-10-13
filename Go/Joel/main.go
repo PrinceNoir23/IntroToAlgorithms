@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	ex.Ex1_3()
+	ex.Ex2_2()
 }
