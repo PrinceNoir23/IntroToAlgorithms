@@ -2,38 +2,20 @@ package prob
 
 import (
 	"fmt"
-	"math"
 
 )
 
 
 func Prob1_1() {
-	times := []float64{1000000, 60000, 3600000, 86400000, 2629800000, 31557600000, 3155760000000}
 	fmt.Println("Comparison of running times")
-	fmt.Println("f(n)\t=1\tsecond\tminute\thour\tday\tmonth\tyear\tcentury")
+	fmt.Println("f(n) | second | minute | hour | day | month | year | century")
 	fmt.Println("------------------------------------------------------------------------")
-	fmt.Printf("result is %f\n", log(0, times[0]))
-	fmt.Println("lg n\\\\\\\\")
-	fmt.Println("sqrt n\\\\\\\\")
-	fmt.Println("n\\\\\\\\")
-	fmt.Println("n lg n\\\\\\\\")
-	fmt.Println("n^2\\\\\\\\")
-	fmt.Println("n^3\\\\\\\\")
-	fmt.Println("2^n\\\\\\\\")
-	fmt.Println("n!\\\\\\\\")
+	fmt.Println("lg n | 2^(10^6) | 2^(6*10^7) | 2^(3.6*10^9) | 2^(8.64*10^10) | 2^(2.6298*10^12) | 2^(3.15576*10^14)")
+	fmt.Println("sqrt n| 10^12 | 36*10^14 | 12.96*10^18 | 746496*10^16 | 6718464*10^18 | 994519296*10^18| 995827586973696*10^16 | *10^16 ")
+	fmt.Println("the idea is to set f(n)=timeInMiliseconds and then solve for n")
+	fmt.Println("the other solutions are in https://ita.skanev.com/01/problems/01.html")
 }
-func log(n float64, time float64) float64 {
-    if time <= 0 {
-        return 0
-    }
-    if n < 1 {
-        n = 1
-    }
-    for n*math.Log2(n) < time {
-        n += 1
-    }
-    return n
-}
+
 // func sqrt(n float64, time float64) float64 {
 // 	return float64(math.Sqrt(float64(n)))
 // }
