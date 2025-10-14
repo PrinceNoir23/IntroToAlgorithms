@@ -8,6 +8,7 @@ Guía rápida
 - Incluye ejemplos en `Go` o `Rust` cuando aporten claridad.
 - (Star) section are for graduate
 - "Parts I and VIII of this book teach you all the mathematical techniques you will need"
+- Pseudocode conventions Pg. 20
 ## Links
 Solutions pg. xiii:
 "Our Web site, http://mitpress.mit.edu/algorithms/, links to these solutions."
@@ -30,4 +31,5 @@ Solutions pg. xiii:
 
 ## Other links
 https://atekihcan.github.io/CLRS/
+
 https://ita.skanev.com/
