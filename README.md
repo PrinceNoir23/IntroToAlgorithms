@@ -1,5 +1,5 @@
 # IntroToALgorithms 3rd ed
-Pg. 18
+Pg. 22 ex 2.1-3
 
 THOMAS H. CORMEN  
 
