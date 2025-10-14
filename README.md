@@ -1,13 +1,7 @@
 # IntroToALgorithms 3rd ed
 Pg. 22 ex 2.1-3
 
-THOMAS H. CORMEN  
-
-CHARLES E. LEISERSON  
-
-RONALD L. RIVEST
-
-CLIFFORD STEIN  
+CLRS 
 
 *February 2009*
 # 📘 Solutions to *Introduction to Algorithms* (Cormen)
