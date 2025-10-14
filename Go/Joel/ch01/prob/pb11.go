@@ -14,6 +14,7 @@ func Prob1_1() {
 	fmt.Println("sqrt n| 10^12 | 36*10^14 | 12.96*10^18 | 746496*10^16 | 6718464*10^18 | 994519296*10^18| 995827586973696*10^16 | *10^16 ")
 	fmt.Println("the idea is to set f(n)=timeInMiliseconds and then solve for n")
 	fmt.Println("the other solutions are in https://ita.skanev.com/01/problems/01.html")
+	fmt.Println("the conclusion here is that the ideal algorithm would be one with the behaviour of lgn")
 }
 
 // func sqrt(n float64, time float64) float64 {
