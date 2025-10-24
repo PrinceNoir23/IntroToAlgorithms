@@ -1,5 +1,5 @@
 # IntroToALgorithms 3rd ed
-Pg. 22 ex 2.1-3
+Pg. 22 ex 2.1-4
 
 CLRS 
 
